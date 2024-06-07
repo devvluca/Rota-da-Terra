@@ -88,9 +88,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 1321px;
-  left: 1182px;
+  right:0; /* Move the image to the right */
   overflow: hidden;
 }
+
 .v286_40 {
   width: 518px;
   height: 354px;
