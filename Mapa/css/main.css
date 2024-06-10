@@ -64,7 +64,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 1593px;
-  left: 508px;
+  left: 590px;
   font-family: Arial;
   font-weight: Bold;
   font-size: 16px;
@@ -116,7 +116,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1654px;
-  left: 705px;
+  left: 900px;
   border: 1px solid rgba(0,0,0,1);
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
@@ -132,7 +132,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 2036px;
-  left: 705px;
+  left: 900px;
   border: 1px solid rgba(0,0,0,1);
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
@@ -161,8 +161,8 @@ body {
   width: 328px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 1654px;
-  left: 919px;
+  top: 1700px;
+  left: 1119px;
   font-family: Kotta One;
   font-weight: Regular;
   font-size: 20px;
@@ -189,8 +189,8 @@ body {
   width: 328px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 2045px;
-  left: 919px;
+  top: 2095px;
+  left: 1119px;
   font-family: Kotta One;
   font-weight: Regular;
   font-size: 20px;
@@ -201,7 +201,7 @@ body {
   width: 328px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 1661px;
+  top: 1700px;
   left: 264px;
   font-family: Kotta One;
   font-weight: Regular;
@@ -213,7 +213,7 @@ body {
   width: 328px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 2045px;
+  top: 2095px;
   left: 264px;
   font-family: Kotta One;
   font-weight: Regular;
@@ -231,7 +231,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1681px;
-  left: 739px;
+  left: 939px;
   overflow: hidden;
 }
 .v394_49 {
@@ -244,7 +244,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 2069px;
-  left: 726px;
+  left: 926px;
   overflow: hidden;
 }
 .v394_51 {
@@ -536,11 +536,11 @@ body {
 .v498_121 {
   width: 168px;
   height: 1px;
-  background: rgba(255,255,255,1);
+  background: rgb(255, 255, 255);
   opacity: 1;
   position: absolute;
-  top: 2545px;
-  left: 683px;
+  top: 2460px;
+  left: 590px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -550,7 +550,7 @@ body {
 }
 .v498_122 {
   width: 355px;
-  color: rgba(255,255,255,1);
+  color: rgb(0, 0, 0);
   position: absolute;
   top: 2583px;
   left: 553px;
@@ -671,7 +671,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 2524px;
-  left: 1085px;
+  left: 1235px;
   overflow: hidden;
 }
 .v498_132 {

@@ -570,8 +570,8 @@ body {
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
-  top: 2875px;
-  left: 754px;
+  top: 2800px;
+  left: 600px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -581,7 +581,7 @@ body {
 }
 .v424_263 {
   width: 355px;
-  color: rgba(255,255,255,1);
+  color: rgb(0, 0, 0);
   position: absolute;
   top: 2932px;
   left: 572px;
@@ -702,7 +702,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 2882px;
-  left: 1154px;
+  left: 1235px;
   overflow: hidden;
 }
 .v495_22 {
