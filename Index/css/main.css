@@ -743,11 +743,12 @@ body {
   text-align: center;
 }
 .v424_281 {
-  width: 50px;
+  width: 70px;
+  height: 100px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 2766px;
-  left: 516px;
+  left: 350px;
   font-family: Kreon;
   font-weight: Regular;
   font-size: 15px;
@@ -889,6 +890,7 @@ body {
   opacity: 1;
   text-align: center;
 }
+
 .v475_123 {
   width: 46px;
   height: 48px;
@@ -1118,7 +1120,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 2772px;
-  left: 507px;
+  left: 340px;
   overflow: hidden;
 }
 .v497_55 {
